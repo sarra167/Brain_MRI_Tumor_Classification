@@ -1,0 +1,39 @@
+# Model weights (too large for GitHub)
+*.pth
+best_brain_mri_model.pth
+
+# Dataset directories (download via kagglehub)
+data/
+dataset/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.egg-info/
+dist/
+build/
+.eggs/
+
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# Credentials
+.env
+kaggle.json
+*.env
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Misc
+*.log
